@@ -1,5 +1,5 @@
 VAR hiTree = false
-
+VAR hiAmount = true
 Once upon a time...
 
  * There were two choices.
@@ -11,12 +11,12 @@ Once upon a time...
 ==tree==
 
 There is a tree.
-
+#IMAGE: images/tree.jpg
 {hiTree:
     "Hello. "
 }
 
-{hiAmount == 10:
+    {hiAmount == 10:
 
     "Shut up!"
     }
