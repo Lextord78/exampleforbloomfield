@@ -11,12 +11,15 @@ Once upon a time...
 ==tree==
 
 There is a tree.
-#IMAGE: images/tree.jpg
+{hiTree == false:
+# IMAGE: Images/longTree.png
+}
 {hiTree:
+# IMAGE: Images/longTree.png
     "Hello. "
 }
 
-    {hiAmount == 10:
+    {hiAmount == 3:
 
     "Shut up!"
     }
@@ -25,8 +28,8 @@ There is a tree.
 ==hitreeroom==
 
     ~hiTree = true
-    ~hiTree = true
     ~hiAmount += 1
+    
 -> tree
 
 ==StoryEnd==
