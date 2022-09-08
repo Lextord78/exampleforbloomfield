@@ -13,6 +13,7 @@ Once upon a time...
 There is a tree.
 {hiTree == false:
 # IMAGE: Images/longTree.png
+# AUDIO: audio/Horn.wav
 }
 {hiTree:
 # IMAGE: Images/longTree.png
