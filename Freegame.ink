@@ -22,6 +22,8 @@ There is a tree.
     {hiAmount == 3:
 
     "Shut up!"
+    
+    # AUDIO: audio/yelling.wav
     }
 + say hi to the tree . ->hitreeroom
 
